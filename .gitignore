@@ -106,7 +106,6 @@ venv.bak/
 .mypy_cache/
 
 # custom
-mmpose/.mim
 /models
 /data
 .vscode
@@ -132,3 +131,5 @@ docs/**/modelzoo.md
 *.pth
 
 *.DS_Store
+*.mp4
+*.json
